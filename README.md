@@ -1,1 +1,1 @@
-https://cardtunic.github.io/habits/
+https://habittracker-n.vercel.app/
